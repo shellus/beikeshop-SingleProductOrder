@@ -1,0 +1,18 @@
+{
+    "code": "single_product_order",
+    "name": {
+        "zh_cn": "单商品订单",
+        "en": "Single Product Order"
+    },
+    "description": {
+        "zh_cn": "允许将商品设置为只可单独结算，不可以多个数量以及和其他商品一起结算",
+        "en": "Allow products to be set to only single settlement, not multiple quantities and not with other products"
+    },
+    "type": "feature",
+    "version": "v1.0.0",
+    "icon": "/image/logo.png",
+    "author": {
+        "name": "shellus",
+        "email": "353358601@qq.com"
+    }
+}
